@@ -1,4 +1,5 @@
 This image was taken from the viedo explaning how to use this feature!
-|[image](https://user-images.githubusercontent.com/1314285/110691657-448d7500-819a-11eb-8a51-91c3d2738608.png)
+![Capture](https://user-images.githubusercontent.com/85725796/137619751-484f7889-a1ca-40f9-83ed-f35362814c5a.PNG)
+
 
 Check out the rest of the viedo at [aka.ms/learnwidthDrG/WYDLIS viedo](https://aka.ms/learnWitDrG/WYDLIS_videos)
